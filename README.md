@@ -6,19 +6,6 @@
 2. Please, put all your `JavaScript` code in the `src/script.js` file. If you use any other file, we would not be able to verify it.
 3. Please, don't change the page structure, if it is not required for a task. It may affect tests.
 
-## Run JavaScript code in RunJS application
-
-`RunJS` is a JavaScript and TypeScript playground for desktop operating systems. It runs code as it's written and displays formatted results in the output panel on the right.
-
-![RunJS application in work](https://gitlab.com/gap-bs-front-end-autocode-documents/autocode-documents/-/raw/main/images/runjs-intro.png)
-
-RunJS is available on macOS, Windows, and Linux.
-
-Here are detailed instructions how to install and use it: [RunJS documentation](https://runjs.app/docs).
-
-## Check your solution before submitting it (OPTIONAL)
-
-To be sure you submit a correct solution, you can verify it locally. This requires some local setup. Here are the instructions: [Verify your solution locally](https://gitlab.com/gap-bs-front-end-autocode-documents/autocode-documents/-/blob/main/docs/VerifySolutionLocally.md).
 
 ## Task Requirements
 

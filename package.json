@@ -6,7 +6,6 @@
   "scripts": {
     "start": "cd ./src && live-server --port=7000",
     "test": "npm run test:junit",
-    "test:local": "jest --reporters=default",
     "test:watch": "jest --watchAll --reporters=default",
     "test:junit": "jest --reporters=jest-junit",
     "test:xunit": "jest",

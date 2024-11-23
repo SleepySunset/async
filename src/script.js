@@ -1,9 +1,11 @@
 function mocker(data) {
     return function () {
-        return new Promise((resolve) => {
-            setTimeout(() => {
-                resolve(data);
-            }, 1000);
-        });
+      const promise = new Promise((resolve) => {
+        setTimeout(() => {
+          resolve(data);
+        }, 1000); 
+      });
+      return promise; 
     };
-};
+  }
+  
